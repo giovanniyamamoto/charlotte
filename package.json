@@ -1,0 +1,10 @@
+{
+  "name": "charlotte",
+  "version": "0.1.0",
+  "description": "Token-efficient browser MCP server \u2014 structured web pages for AI agents, not raw accessibility dumps",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
